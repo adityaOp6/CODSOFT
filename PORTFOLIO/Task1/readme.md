@@ -1,72 +1,29 @@
 # 🚀 Aditya Shukla Portfolio
 
-A modern and responsive personal portfolio website built using **HTML, CSS, and JavaScript**.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 📌 Overview
 
-This portfolio showcases my skills, projects, achievements, education, and contact information in a clean and interactive interface.
+This portfolio showcases my skills, projects, achievements, and contact information through a clean, interactive, and fully responsive user interface.
 
-The website features:
+## 🛠️ Tech Stack
 
-* Responsive design for all devices
-* Animated hero section
-* Typewriter effect
-* Interactive skill bars
-* Project showcase cards
-* Scroll reveal animations
-* Mobile navigation menu
-* Modern UI inspired by developer portfolios
-
----
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* Font Awesome Icons
-* Google Fonts
-
----
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
 
 ## ✨ Features
 
-### Hero Section
-
-* Dynamic typewriter animation
-* Animated developer profile
-* Interactive CTA buttons
-
-### About Section
-
-* Brief introduction
-* Educational background
-
-### Skills Section
-
-* Technology cards
-* Animated progress bars
-
-### Projects Section
-
-* Calculator App
-* CodeMentor AI Landing Page
-* DSA Practice Library
-
-### Achievements Section
-
-* AWS Cloud Operations Associate
-* CodeChef Rating 1100+
-* Codeforces Rating 900+
-* CodSoft Web Development Internship
-
-### Contact Section
-
-* Email
-* GitHub
-* LinkedIn
-
----
+- Responsive Design
+- Animated Hero Section
+- Typewriter Effect
+- Interactive Skill Bars
+- Scroll Reveal Animations
+- Mobile Navigation Menu
+- Project Showcase Section
+- Modern Dark Theme UI
 
 ## 📂 Project Structure
 
@@ -79,48 +36,40 @@ Portfolio/
 └── README.md
 ```
 
----
+## 🚀 Projects Included
 
-## 🚀 Getting Started
+### Calculator App
+A responsive calculator built using HTML, CSS, and JavaScript.
 
-1. Clone the repository
+### CodeMentor AI Landing Page
+A modern landing page designed for an AI-powered coding assistant.
 
-```bash
-git clone https://github.com/your-username/portfolio.git
-```
+### DSA Practice Library
+Collection of data structure and algorithm implementations in C++.
 
-2. Open the project folder
+## 🏆 Achievements
 
-```bash
-cd portfolio
-```
+- AWS Cloud Operations Associate
+- CodeChef Rating 1100+
+- Codeforces Rating 900+
+- CodSoft Web Development Internship
 
-3. Run the website
+## 🎓 Education
 
-Simply open `index.html` in your browser.
+**B.Tech Computer Science Engineering**  
+KIET Group of Institutions  
+2024 – 2028
 
----
+## 📬 Contact
 
-## 📸 Screenshots
+**Email:** 6adityashukla@gmail.com
 
-Add screenshots of your portfolio here.
+**GitHub:** https://github.com/adityaOp6
 
----
-
-## 🔗 Connect With Me
-
-GitHub: https://github.com/adityaOp6
-
-LinkedIn: https://www.linkedin.com/in/aditya-shukla-47a48631a/
-
-Email: [6adityashukla@gmail.com](mailto:6adityashukla@gmail.com)
-
----
+**LinkedIn:** https://www.linkedin.com/in/aditya-shukla-47a48631a/
 
 ## 📜 License
 
-This project is open-source and available for educational and personal use.
+This project is open-source and available for educational purposes.
 
----
-
-⭐ If you like this project, consider giving it a star.
+⭐ Feel free to fork this repository and use it as inspiration for your own portfolio.
